@@ -13,6 +13,5 @@
         <Button Name="startButton" Content="Start" HorizontalAlignment="Left" Click="Button_Click_Start"  VerticalAlignment="Top" Margin="44,101,0,0"/>
         <Button Name="stopButton" Content="Stop" HorizontalAlignment="Left" Click="Button_Click_Stop" VerticalAlignment="Top" Margin="104,101,0,0" RenderTransformOrigin="1.373,0.57"/>
         <Button Name="resetButton" Content="Reset" HorizontalAlignment="Left" Click="Button_Click_Reset" VerticalAlignment="Top" Margin="164,101,0,0" RenderTransformOrigin="1.373,0.57"/>
-        <Button Name="restButton" Content="Rest" HorizontalAlignment="Left" Click="Button_Click_Rest" VerticalAlignment="Top" Margin="230,101,0,0" RenderTransformOrigin="1.373,0.57"/>
     </Grid>
 </Page>
